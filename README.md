@@ -1,4 +1,4 @@
-WhatsApp Clone
+MESSENGER API - This API emulates the core functions of popular messenger applications. The endpoints are listed below.
 
 POST
 user signup
