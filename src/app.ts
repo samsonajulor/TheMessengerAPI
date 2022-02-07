@@ -13,7 +13,7 @@ import messageRouter from './routes/messageRoute'
 import path from 'path'
 import passport from "passport"
 import session from 'express-session'
-import fileUpload from 'express-fileUpload'
+import fileUpload from 'express-fileupload'
 import callCloudinary from './utils/cloudinary';
 // import dotenv_safe from 'dotenv-safe'
 
